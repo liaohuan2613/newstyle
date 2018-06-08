@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/javaClient/javaClient.iml" filepath="$PROJECT_DIR$/javaClient/javaClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/newstyle.iml" filepath="$PROJECT_DIR$/.idea/newstyle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pythonServer/pythonServer.iml" filepath="$PROJECT_DIR$/pythonServer/pythonServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springCloud/springCloud.iml" filepath="$PROJECT_DIR$/springCloud/springCloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springCloud/springCloudApp/springCloudApp.iml" filepath="$PROJECT_DIR$/springCloud/springCloudApp/springCloudApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springCloud/springCloudConfigServer/springCloudConfigServer.iml" filepath="$PROJECT_DIR$/springCloud/springCloudConfigServer/springCloudConfigServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springCloud/springCloudEurekaServer/springCloudEurekaServer.iml" filepath="$PROJECT_DIR$/springCloud/springCloudEurekaServer/springCloudEurekaServer.iml" />
+    </modules>
+  </component>
+</project>
